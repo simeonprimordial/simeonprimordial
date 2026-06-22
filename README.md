@@ -103,7 +103,7 @@ Building reproducible AWS infrastructure using Terraform and automation best pra
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/simeon-siaka-8a8367312
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/simeonprimordial
 
 ---
 
