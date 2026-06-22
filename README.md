@@ -1,78 +1,74 @@
-# Hi, I'm Simeon Siaka 👋
+# Simeon Siaka
 
-### Cloud Infrastructure Engineer | AWS Cloud Enthusiast | DevOps Learner
+### Cloud Infrastructure Engineer | AWS | Linux | Infrastructure as Code | CI/CD
 
-Passionate about designing, deploying, and managing scalable cloud infrastructure. I enjoy building secure, resilient, and automated solutions using AWS, Infrastructure as Code, and DevOps practices.
-
----
-
-## 🚀 About Me
-
-- ☁️ Building hands-on expertise in Cloud Infrastructure and DevOps
-- 🏗️ Designing scalable and highly available AWS architectures
-- 🔄 Learning Infrastructure as Code, CI/CD, and Cloud Automation
-- 🐧 Working with Linux systems and cloud-native technologies
-- 📚 Continuously expanding my knowledge through projects, labs, and certifications
+Building secure, scalable, and automated cloud infrastructure with a focus on reliability, operational excellence, and continuous improvement.
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### Cloud Platforms
+I am a cloud infrastructure engineer focused on designing, deploying, and operating resilient systems on AWS.
+
+My interests span cloud architecture, infrastructure automation, DevOps practices, observability, security, and performance optimization. I enjoy translating business requirements into reliable technical solutions that can scale efficiently while maintaining operational simplicity.
+
+I am continuously expanding my expertise through hands-on projects, architecture design, and cloud engineering challenges.
+
+---
+
+## Core Competencies
+
+### Cloud Infrastructure
 - Amazon Web Services (AWS)
-
-### Infrastructure & Networking
-- VPC
-- Route 53
+- Virtual Private Cloud (VPC)
+- Multi-Tier Architectures
+- High Availability Design
 - Load Balancing
 - Auto Scaling
-- DNS Management
-- Security Groups
-- IAM
+- DNS and Route Management
 
 ### Compute & Serverless
-- EC2
+- Amazon EC2
 - AWS Lambda
-- ECS (Learning)
+- Application Load Balancer
+- Auto Scaling Groups
 
-### Databases
+### Data & Storage
 - Amazon Aurora
 - Amazon RDS
 - DynamoDB
+- Amazon S3
 
 ### DevOps & Automation
 - Git
 - GitHub
 - GitHub Actions
-- Terraform (Learning)
 - CI/CD Pipelines
+- Infrastructure as Code
+- Terraform (In Progress)
 
 ### Operating Systems
-- Linux
+- Linux Administration
+- Shell Scripting
 - Windows Server
 
 ### Monitoring & Security
-- CloudWatch
-- CloudTrail
-- AWS Config
-- Security Best Practices
+- Amazon CloudWatch
+- AWS CloudTrail
+- IAM
+- Security Groups
+- Operational Monitoring
+- Incident Analysis
 
 ---
 
-## 🏆 Certifications
+## Featured Projects
 
-- AWS Cloud Practitioner
-- Dahua Video Surveillance System Certified Engineer
-- AWS AI & ML Scholars Challenge Completion (2026)
+### Scalable AWS Event Processing Platform
+Designed a cloud-native architecture capable of handling significant traffic spikes through:
 
----
-
-## 📂 Featured Projects
-
-### AWS Scalable Event Processing Architecture
-Designed a highly available cloud architecture featuring:
-- Application Load Balancer
 - Auto Scaling Groups
+- Application Load Balancers
 - Amazon Aurora
 - DynamoDB
 - AWS Lambda
@@ -80,33 +76,54 @@ Designed a highly available cloud architecture featuring:
 - Amazon SQS
 - CloudWatch Monitoring
 
-### AWS Cloud Journey
-Documenting my hands-on cloud learning experience through labs, projects, and architecture designs.
+Focus Areas:
+- High Availability
+- Fault Tolerance
+- Scalability
+- Performance Optimization
 
-### Infrastructure as Code Projects
-Building reproducible AWS infrastructure using Terraform and automation best practices.
+### Infrastructure as Code
+Building reproducible cloud environments using infrastructure automation principles and Terraform.
+
+### Cloud Engineering Portfolio
+A collection of architecture designs, implementation projects, and operational best practices focused on real-world cloud infrastructure scenarios.
 
 ---
 
-## 📈 Current Focus
+## Certifications
 
-- AWS Solutions Architecture
+- AWS Certified Cloud Practitioner
+- Dahua Video Surveillance System Certified Engineer
+- AWS AI & ML Scholars Challenge Completion (2026)
+
+---
+
+## Current Learning Objectives
+
 - Terraform
-- DevOps Engineering
-- CI/CD Automation
-- Cloud Security
-- Containerization with Docker
+- Advanced AWS Architecture
 - Kubernetes Fundamentals
+- Site Reliability Engineering (SRE)
+- Cloud Security Engineering
+- Observability and Monitoring
 
 ---
 
-## 📫 Connect With Me
+## Engineering Principles
 
-- LinkedIn: https://www.linkedin.com/in/simeon-siaka-8a8367312
-- GitHub: https://github.com/simeonprimordial
+- Automate repetitive tasks.
+- Design for failure.
+- Secure by default.
+- Monitor everything important.
+- Build systems that scale.
+- Continuously improve.
 
 ---
 
-## ⚡ Philosophy
+## Connect
 
-> "Build it securely. Automate it efficiently. Scale it reliably."
+LinkedIn:
+www.linkedin.com/in/simeon-siaka-8a8367312
+
+GitHub:
+github.com/simeonprimordial
