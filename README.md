@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/simeon-siaka-8a8367312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:simeonvault@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://simeonprimordial.github.io/SimeonOnTheCloudSpace/"><img src="https://img.shields.io/badge/Portfolio-F2A93B?style=flat&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -39,6 +40,7 @@
 - **[logihaul-reference-architecture](https://github.com/simeonprimordial/logihaul-reference-architecture)** — AWS reference architecture for a high-throughput logistics workload, designed for scalability, fault tolerance, and event-driven processing
 - **[lagos-lawfirm-s3-dms](https://github.com/simeonprimordial/lagos-lawfirm-s3-dms)** — Secure cloud document management system on Amazon S3 for a law firm, with encrypted storage, lifecycle-managed archiving, and pre-signed URL access
 - **[aws-solutions-architect-associate-saac03](https://github.com/simeonprimordial/aws-solutions-architect-associate-saac03)** — Hands-on projects and notes from AWS Solutions Architect Associate (SAA-C03) certification prep
+- **[SimeonOnTheCloudSpace](https://github.com/simeonprimordial/SimeonOnTheCloudSpace)** — Personal portfolio site (React + Vite + Tailwind), auto-deployed to GitHub Pages via GitHub Actions
 
 ### 📊 GitHub Stats
 
