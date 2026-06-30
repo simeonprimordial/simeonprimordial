@@ -2,14 +2,13 @@
 <h3 align="center">Cloud Infrastructure Engineer • AWS | Linux | IaC | CI/CD</h3>
 
 <p align="center">
-  I build secure, fault-tolerant AWS infrastructure from reference architectures to
-  production systems with an eye on scalability, cost, and operational simplicity.
+  I build secure, fault-tolerant AWS infrastructure — from reference architectures to
+  production systems — with an eye on scalability, cost, and operational simplicity.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simeon-siaka-8a8367312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:simeonvault@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
@@ -43,10 +42,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=simeonprimordial&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeonprimordial&layout=compact&hide_border=true" />
-</p>
+[![Simeon's GitHub stats](https://github-stats-extended.vercel.app/api?username=simeonprimordial)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
