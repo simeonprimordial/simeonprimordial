@@ -1,24 +1,53 @@
-# Hi, I'm Simeon Siaka 👋
+<h1 align="center">Hi, I'm Simeon Siaka 👋</h1>
+<h3 align="center">Cloud Infrastructure Engineer • AWS | Linux | IaC | CI/CD</h3>
 
-### Cloud Infrastructure Engineer | AWS | Linux | Infrastructure as Code | CI/CD
+<p align="center">
+  I build secure, fault-tolerant AWS infrastructure from reference architectures to
+  production systems with an eye on scalability, cost, and operational simplicity.
+</p>
 
-I am a cloud infrastructure engineer focused on designing, deploying, and operating resilient systems on AWS.
+<p align="center">
+  <a href="https://www.linkedin.com/in/simeon-siaka-8a8367312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:simeonvault@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" /></a>
+</p>
 
-My interests span cloud architecture, infrastructure automation, DevOps practices, observability, security, and performance optimization. I enjoy translating business requirements into reliable technical solutions that can scale efficiently while maintaining operational simplicity.
+---
 
-I am continuously expanding my expertise through hands-on projects, architecture design, and cloud engineering challenges.
+### 🛠️ Tech Stack
 
-- ☁️ AWS Cloud Enthusiast
-- 🏗️ Infrastructure & Networking
-- 🔄 DevOps & CI/CD
-- 🐧 Linux Administration
-- 📈 Continuous Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
 
-## Current Focus
+### 🎯 Current Focus
 
-- AWS Solutions Architecture
-- Terraform
-- GitHub Actions
-- Docker
-- Kubernetes
-- Cloud Security
+- ☁️ AWS Solutions Architecture — building well-architected, fault-tolerant systems
+- 🏗️ Infrastructure as Code with **Terraform**
+- 🔄 CI/CD pipelines with **GitHub Actions**
+- 🐳 Containerized workloads with **Docker** and **Kubernetes**
+- 🔐 Cloud security hardening and observability
+
+### 📌 Featured Projects
+
+- **[logihaul-reference-architecture](https://github.com/simeonprimordial/logihaul-reference-architecture)** — AWS reference architecture for a high-throughput logistics workload, designed for scalability, fault tolerance, and event-driven processing
+- **[lagos-lawfirm-s3-dms](https://github.com/simeonprimordial/lagos-lawfirm-s3-dms)** — Secure cloud document management system on Amazon S3 for a law firm, with encrypted storage, lifecycle-managed archiving, and pre-signed URL access
+- **[aws-solutions-architect-associate-saac03](https://github.com/simeonprimordial/aws-solutions-architect-associate-saac03)** — Hands-on projects and notes from AWS Solutions Architect Associate (SAA-C03) certification prep
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=simeonprimordial&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeonprimordial&layout=compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>Open to cloud/DevOps roles and collaboration on infrastructure projects.</i></p>
