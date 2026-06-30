@@ -2,8 +2,8 @@
 <h3 align="center">Cloud Infrastructure Engineer • AWS | Linux | IaC | CI/CD</h3>
 
 <p align="center">
-  I build secure, fault-tolerant AWS infrastructure [from reference architectures to
-  production systems] with an eye on scalability, cost, and operational simplicity.
+  I build secure, fault-tolerant AWS infrastructure [ from reference architectures to
+  production systems ] with an eye on scalability, cost, and operational simplicity.
 </p>
 
 <p align="center">
