@@ -51,7 +51,6 @@ troubleshooting guides, and production-ready documentation.
 ### Containers
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
 ### CI/CD
@@ -65,7 +64,6 @@ troubleshooting guides, and production-ready documentation.
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
 
 ---
