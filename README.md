@@ -11,7 +11,7 @@ Building production-ready cloud infrastructure one project at a time.
 </p>
 
 <p align="center">
-by <b>Simeon Siaka</b>
+   <b>Simeon Siaka</b>
 </p>
 
 ---
