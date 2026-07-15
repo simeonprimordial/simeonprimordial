@@ -176,7 +176,7 @@ S3 • CloudFront • GitHub
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/simeon-siaka-8a8367312">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -206,11 +206,10 @@ Every project emphasizes:
 - Automation
 - Production-ready documentation
 
-⭐ If you found this project useful, consider starring the repository.
+⭐ If you found my projects useful, consider starring the repository.
 
----
 <p align="center">
 
-> *"Building cloud infrastructure that is secure, scalable, automated, and production-ready."*
+   Building cloud infrastructure that is secure, scalable, automated, and production-ready.
 
 </p>
