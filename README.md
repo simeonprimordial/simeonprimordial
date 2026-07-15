@@ -156,9 +156,9 @@ S3 • CloudFront • GitHub
 
 ✔ Docker
 
-⬜ GitHub Actions
+✔ GitHub Actions
 
-⬜ Amazon ECS
+✔ Amazon ECS
 
 ⬜ Kubernetes
 
