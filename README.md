@@ -76,7 +76,7 @@ Building **80 Production-Quality AWS Projects**
 
 Progress
 
-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 6 / 80
+🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 7 / 80
 
 Current Focus
 
