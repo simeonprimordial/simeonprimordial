@@ -1,215 +1,159 @@
-<h1 align="center">
-☁️ Simeon on the Cloud
-</h1>
+<h1 align="center">☁️ Simeon on the Cloud</h1>
 
-<h3 align="center">
-Cloud Infrastructure Engineer • AWS • Terraform • DevOps
-</h3>
+<h3 align="center">Cloud Infrastructure Engineer · AWS · Terraform · Docker · CI/CD</h3>
 
 <p align="center">
-Building production-ready cloud infrastructure one project at a time.
+  I design, automate, secure, and document production-oriented AWS infrastructure.
 </p>
 
 <p align="center">
-   <b>Simeon Siaka</b>
-</p>
-
-
-
-## 🚀 About Me
-
-I'm a Cloud Infrastructure Engineer passionate about designing scalable,
-fault-tolerant and secure cloud systems.
-
-Rather than simply deploying AWS resources, I focus on solving real business
-problems through production-style architectures that emphasize
-
-- High Availability
-- Infrastructure as Code
-- Automation
-- Security
-- Cost Optimization
-- Operational Excellence
-
-Every repository in my portfolio is treated like a real engineering project,
-complete with architecture diagrams, deployment workflows, decision records,
-troubleshooting guides, and production-ready documentation.
-
----
-
-# ☁️ Cloud & DevOps Stack
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Infrastructure
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Containers
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-### CI/CD
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-
-### Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
-
----
-
-# 🎯 Current Engineering Journey
-
-## AWS Cloud Infrastructure Portfolio
-
-Building **80 Production-Quality AWS Projects**
-
-Progress
-
-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 7 / 80
-
-Current Focus
-
-- Terraform Infrastructure as Code
-- Docker
-- Highly Available Architectures
-- Auto Scaling
-- Load Balancing
-- Serverless Computing
-- CI/CD
-- Kubernetes (Upcoming)
-- Observability (Upcoming)
-
----
-
-# 🏆 Featured Projects
-
-## 🚀 FinTrust Customer Portal
-
-Production-ready three-tier AWS application
-
-**Tech**
-
-AWS • Terraform • Docker • ALB • Auto Scaling • RDS • Flask
-
-✔ High Availability
-
-✔ Infrastructure as Code
-
-✔ Dockerized Application
-
-✔ Production Documentation
-
----
-
-## 🚀 FinTrust Status Service
-
-Containerized Flask application on AWS
-
-AWS • Docker • Terraform • NLB • Auto Scaling
-
----
-
-## 🚀 Highly Available Web Application
-
-Terraform deployment of resilient AWS infrastructure
-
-AWS • Terraform • EC2 • ALB • Launch Templates
-
----
-
-## 🚀 AWS Portfolio Website
-
-Static website hosted on AWS
-
-S3 • CloudFront • GitHub
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=simeonprimordial&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=simeonprimordial&theme=transparent"/>
-
+  <a href="https://www.linkedin.com/in/simeon-siaka-8a8367312/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:simeonvault@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://simeonprimordial.github.io/SimeonOnTheCloudSpace/">
+    <img src="https://img.shields.io/badge/Portfolio-F2A93B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
 
-# 📚 Currently Learning
+## About Me
 
-✔ Advanced Terraform
+I'm **Simeon Siaka**, a cloud infrastructure engineer building hands-on AWS projects around real business and operational requirements.
 
-✔ AWS Well-Architected Framework
+My work goes beyond creating resources in the AWS console. I focus on:
 
-✔ Docker
+- designing highly available and fault-tolerant architectures
+- provisioning repeatable infrastructure with Terraform
+- automating delivery with secure CI/CD workflows
+- applying least-privilege IAM and secure secret management
+- documenting architecture decisions, validation, and troubleshooting
+- balancing reliability, performance, security, and cost
 
-✔ GitHub Actions
-
-✔ Amazon ECS
-
-⬜ Kubernetes
-
-⬜ Jenkins
-
-⬜ Ansible
-
-⬜ Prometheus
-
-⬜ Grafana
+I am currently building an **80-project AWS infrastructure portfolio**. **Seven projects are complete**, with a multi-tenant SaaS platform now in progress.
 
 ---
 
-# 🤝 Let's Connect
+## Featured Engineering Projects
 
-<p align="center">
+### [LogiHaul — Pan-Nigeria Logistics Platform](https://github.com/simeonprimordial/logihaul-reference-architecture)
 
-<a href="www.linkedin.com/in/simeon-siaka-8a8367312">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+Designed a serverless-first, multi-AZ logistics architecture capable of absorbing a modeled **50× traffic spike** without manual intervention.
 
-<a href="mailto:simeonvault@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
+**Engineering evidence:**
 
-<a href="https://simeonprimordial.github.io/SimeonOnTheCloudSpace/">
-<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=googlechrome">
-</a>
+- separated spike-prone order intake from the EC2 web tier
+- used API Gateway, Lambda, DynamoDB, SQS, and SNS for asynchronous order processing
+- documented DynamoDB access patterns before schema design
+- defined reserved Lambda concurrency and SQS buffering behavior
+- selected RDS MySQL Multi-AZ and Redis according to workload and cost requirements
+- documented observability, failure testing, and regional resilience decisions
 
+**Stack:** AWS · Lambda · API Gateway · DynamoDB · SQS · SNS · RDS · ElastiCache · EC2 · Auto Scaling · CloudWatch
+
+---
+
+### [FinTrust Customer Portal](https://github.com/simeonprimordial/fintrust-customer-portal)
+
+Built a production-oriented three-tier customer management application using Terraform and Docker.
+
+**Engineering evidence:**
+
+- provisioned private application and database subnets
+- deployed Docker images from Amazon ECR to an Auto Scaling Group
+- routed traffic through an Application Load Balancer with health checks
+- integrated Flask and SQLAlchemy with Amazon RDS MySQL
+- replaced hardcoded credentials with AWS Secrets Manager
+- added automated Terraform, Bash, and Python validation checks
+- documented architecture, deployment flow, engineering decisions, and troubleshooting
+
+**Stack:** AWS · Terraform · Docker · ECR · ALB · Auto Scaling · RDS · Secrets Manager · Flask
+
+---
+
+### [NovaTech Serverless Website](https://github.com/simeonprimordial/novatech-serverless-website)
+
+Implemented a secure static website delivery and deployment pipeline without long-lived AWS credentials.
+
+**Engineering evidence:**
+
+- kept the S3 origin private behind CloudFront Origin Access Control
+- automated deployments and CloudFront invalidation with GitHub Actions
+- used GitHub OIDC and AWS STS for short-lived deployment credentials
+- scoped the deployment role to the required S3 bucket actions
+- documented security, cost, Well-Architected alignment, and operational decisions
+
+**Stack:** Amazon S3 · CloudFront · IAM · AWS STS · GitHub Actions · OIDC
+
+---
+
+### [Highly Available Web Application with Terraform](https://github.com/simeonprimordial/highly-available-web-app-terraform)
+
+Provisioned a repeatable AWS web tier that distributes traffic and automatically replaces unhealthy instances.
+
+**Engineering evidence:**
+
+- used Terraform data sources, variables, outputs, and resource references
+- configured an ALB, target group, launch template, and Auto Scaling Group
+- restricted instance traffic to requests originating from the load balancer
+- automated Apache installation with EC2 user data
+- validated target health, traffic distribution, and instance replacement
+
+**Stack:** Terraform · EC2 · ALB · Auto Scaling · Linux · Bash
+
+---
+
+## Current Build
+
+### [CloudDesk Multi-Tenant SaaS](https://github.com/simeonprimordial/clouddesk-multi-tenant-saas) — Work in Progress
+
+Building the authentication, tenant-isolation, application, and infrastructure foundations for a multi-tenant SaaS platform. The project is being developed through feature branches and pull requests, with architecture and security documentation added alongside implementation.
+
+**Current focus:** Amazon Cognito · OIDC/OAuth 2.0 · tenant isolation · secure session handling · infrastructure automation
+
+---
+
+## Core Stack Demonstrated
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
+**AWS services used across projects:** VPC, EC2, Auto Scaling, ALB, NLB, RDS, ECR, S3, CloudFront, IAM, STS, Secrets Manager, Lambda, API Gateway, DynamoDB, SQS, SNS, ElastiCache, and CloudWatch.
+
 ---
 
-## About the Author
+## How I Approach Projects
 
-**Simeon on the Cloud** is my public cloud engineering portfolio documenting my journey from foundational AWS services to production-grade cloud infrastructure.
+1. Start with the business problem and measurable requirements.
+2. Design the architecture and document important trade-offs.
+3. Provision repeatable infrastructure instead of relying only on console steps.
+4. Apply security controls such as private networking, least privilege, OIDC, and managed secrets.
+5. Validate the deployment through health checks, failure testing, and observable outcomes.
+6. Record troubleshooting lessons so the repository explains both the solution and the engineering process.
 
-Every project emphasizes:
+---
 
-- Real business scenarios
-- AWS best practices
-- Infrastructure as Code
-- Security
-- Cost optimization
-- Automation
-- Production-ready documentation
+## Currently Deepening
 
-⭐ If you found my projects useful, consider starring the repository.
+- multi-tenant SaaS architecture and tenant isolation
+- Amazon Cognito authentication and authorization
+- container orchestration with Amazon ECS
+- CloudWatch monitoring, alarms, and operational dashboards
+- automated infrastructure security and quality checks
+- Kubernetes, Prometheus, and Grafana as upcoming portfolio areas
+
+---
 
 <p align="center">
-
-   Building cloud infrastructure that is secure, scalable, automated, and production-ready.
-
+  <b>Building secure, scalable, automated, and well-documented cloud infrastructure.</b>
 </p>
