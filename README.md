@@ -39,7 +39,7 @@ I am currently building an **80-project AWS infrastructure portfolio**. **Seven 
 
 ## Featured Engineering Projects
 
-### [LogiHaul — Pan-Nigeria Logistics Platform](https://github.com/simeonprimordial/logihaul-reference-architecture)
+### [LogiHaul - Pan-Nigeria Logistics Platform](https://github.com/simeonprimordial/logihaul-reference-architecture)
 
 Designed a serverless-first, multi-AZ logistics architecture capable of absorbing a modeled **50× traffic spike** without manual intervention.
 
