@@ -1,9 +1,9 @@
 <h1 align="center">☁️ Simeon on the Cloud</h1>
 
-<h3 align="center">Cloud Infrastructure Engineer · AWS · Terraform · Docker · CI/CD</h3>
+<h3 align="center">Cloud Infrastructure Engineer · AWS · Terraform · AWS SAM · Docker · CI/CD</h3>
 
 <p align="center">
-  I design, automate, secure, and document production-oriented AWS infrastructure.
+  I design, automate, secure, test, and document production-oriented cloud infrastructure.
 </p>
 
 <p align="center">
@@ -18,28 +18,58 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/simeonprimordial/AWS80ProjectsChallenge">
+    <img src="https://img.shields.io/badge/AWS_80_Projects-8%20Completed-success?style=flat-square" alt="AWS 80 Projects Challenge: 8 completed">
+  </a>
+  <a href="https://github.com/simeonprimordial/clouddesk-multi-tenant-saas">
+    <img src="https://img.shields.io/badge/Latest_Project-CloudDesk_SaaS-2088FF?style=flat-square" alt="Latest project: CloudDesk SaaS">
+  </a>
+</p>
+
 ---
 
 ## About Me
 
-I'm **Simeon Siaka**, a cloud infrastructure engineer building hands-on AWS projects around real business and operational requirements.
+I'm **Simeon Siaka**, a cloud infrastructure engineer building hands-on AWS systems around real business and operational requirements.
 
 My work goes beyond creating resources in the AWS console. I focus on:
 
-- designing highly available and fault-tolerant architectures
-- provisioning repeatable infrastructure with Terraform
-- automating delivery with secure CI/CD workflows
-- applying least-privilege IAM and secure secret management
-- documenting architecture decisions, validation, and troubleshooting
-- balancing reliability, performance, security, and cost
+- designing highly available, scalable, and fault-tolerant architectures
+- provisioning repeatable infrastructure with Terraform and AWS SAM
+- automating testing and deployment with secure CI/CD workflows
+- applying private networking, least-privilege IAM, OIDC, and managed secrets
+- implementing monitoring, alarms, dashboards, and operational logging
+- documenting architecture decisions, validation, troubleshooting, and lessons learned
+- balancing reliability, security, performance, cost, and operational simplicity
 
-I am currently building an **80-project AWS infrastructure portfolio**. **Seven projects are complete**, with a multi-tenant SaaS platform now in progress.
+I am building an **80-project AWS infrastructure portfolio**. **Eight projects are complete**, including a serverless multi-tenant SaaS backend with authentication, tenant-level authorization, PostgreSQL persistence, automated testing, CI/CD, and observability.
 
 ---
 
 ## Featured Engineering Projects
 
-### [LogiHaul - Pan-Nigeria Logistics Platform](https://github.com/simeonprimordial/logihaul-reference-architecture)
+### [CloudDesk Multi-Tenant SaaS](https://github.com/simeonprimordial/clouddesk-multi-tenant-saas)
+
+Built a production-inspired serverless backend that allows multiple organizations to securely share one application while maintaining tenant-level data isolation and role-based access control.
+
+**Engineering evidence:**
+
+- implemented Amazon Cognito registration, authentication, JWT authorization, and post-confirmation user provisioning
+- modeled users, tenants, and memberships in Amazon RDS for PostgreSQL
+- enforced tenant-level `owner`, `admin`, and `member` permissions through reusable authorization guards
+- protected database credentials with AWS Secrets Manager and private VPC endpoint access
+- deployed Lambda functions and API Gateway HTTP APIs through AWS SAM and CloudFormation
+- used GitHub Actions with AWS OIDC and STS instead of long-lived deployment credentials
+- added Black, isort, Ruff, pytest, coverage checks, SAM validation, and automated builds
+- implemented structured logging, CloudWatch alarms, an operational dashboard, and SNS notifications
+- documented the architecture, API, deployment, security, monitoring, testing, cost, performance, decisions, and troubleshooting
+
+**Stack:** AWS · Python · AWS SAM · Lambda · API Gateway · Cognito · PostgreSQL · Secrets Manager · CloudWatch · SNS · GitHub Actions · OIDC
+
+---
+
+### [LogiHaul — Pan-Nigeria Logistics Platform](https://github.com/simeonprimordial/logihaul-reference-architecture)
 
 Designed a serverless-first, multi-AZ logistics architecture capable of absorbing a modeled **50× traffic spike** without manual intervention.
 
@@ -76,7 +106,7 @@ Built a production-oriented three-tier customer management application using Ter
 
 ### [NovaTech Serverless Website](https://github.com/simeonprimordial/novatech-serverless-website)
 
-Implemented a secure static website delivery and deployment pipeline without long-lived AWS credentials.
+Implemented secure static website delivery and an automated deployment pipeline without long-lived AWS credentials.
 
 **Engineering evidence:**
 
@@ -106,13 +136,22 @@ Provisioned a repeatable AWS web tier that distributes traffic and automatically
 
 ---
 
-## Current Build
+## AWS 80 Projects Challenge
 
-### [CloudDesk Multi-Tenant SaaS](https://github.com/simeonprimordial/clouddesk-multi-tenant-saas) — Work in Progress
+The [AWS 80 Projects Challenge](https://github.com/simeonprimordial/AWS80ProjectsChallenge) is the central index for my growing cloud engineering portfolio.
 
-Building the authentication, tenant-isolation, application, and infrastructure foundations for a multi-tenant SaaS platform. The project is being developed through feature branches and pull requests, with architecture and security documentation added alongside implementation.
+```text
+Progress: [########........................................................................] 8 / 80
+```
 
-**Current focus:** Amazon Cognito · OIDC/OAuth 2.0 · tenant isolation · secure session handling · infrastructure automation
+Each substantial project aims to demonstrate:
+
+- a defined business or operational problem
+- documented architecture and engineering trade-offs
+- secure and repeatable infrastructure deployment
+- validation, testing, and failure-oriented troubleshooting
+- monitoring, cost awareness, and operational readiness
+- clear documentation that explains both the result and the engineering process
 
 ---
 
@@ -121,14 +160,16 @@ Building the authentication, tenant-isolation, application, and infrastructure f
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/AWS_SAM-CB2C30?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAM">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
-**AWS services used across projects:** VPC, EC2, Auto Scaling, ALB, NLB, RDS, ECR, S3, CloudFront, IAM, STS, Secrets Manager, Lambda, API Gateway, DynamoDB, SQS, SNS, ElastiCache, and CloudWatch.
+**AWS services used across projects:** VPC, EC2, Auto Scaling, ALB, NLB, Lambda, API Gateway, Cognito, RDS, DynamoDB, ElastiCache, ECR, S3, CloudFront, IAM, STS, Secrets Manager, SQS, SNS, CloudWatch, and AWS Systems Manager.
 
 ---
 
@@ -137,23 +178,25 @@ Building the authentication, tenant-isolation, application, and infrastructure f
 1. Start with the business problem and measurable requirements.
 2. Design the architecture and document important trade-offs.
 3. Provision repeatable infrastructure instead of relying only on console steps.
-4. Apply security controls such as private networking, least privilege, OIDC, and managed secrets.
-5. Validate the deployment through health checks, failure testing, and observable outcomes.
-6. Record troubleshooting lessons so the repository explains both the solution and the engineering process.
+4. Apply security controls such as private networking, least privilege, OIDC, managed secrets, and tenant-aware authorization.
+5. Automate formatting, static analysis, tests, infrastructure validation, builds, and deployments.
+6. Validate the system through health checks, permission tests, failure scenarios, logs, metrics, and alarms.
+7. Record decisions and troubleshooting lessons so the repository explains both the solution and the engineering process.
 
 ---
 
 ## Currently Deepening
 
-- multi-tenant SaaS architecture and tenant isolation
-- Amazon Cognito authentication and authorization
+- AWS and Azure infrastructure administration
+- serverless and event-driven architecture
+- multi-tenant SaaS security and authorization
 - container orchestration with Amazon ECS
 - CloudWatch monitoring, alarms, and operational dashboards
-- automated infrastructure security and quality checks
+- secure multi-environment CI/CD and infrastructure quality checks
 - Kubernetes, Prometheus, and Grafana as upcoming portfolio areas
 
 ---
 
 <p align="center">
-  <b>Building secure, scalable, automated, and well-documented cloud infrastructure.</b>
+  <b>Building secure, scalable, automated, observable, and well-documented cloud infrastructure.</b>
 </p>
