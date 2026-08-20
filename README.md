@@ -1,6 +1,6 @@
 <h1 align="center">☁️ Simeon on the Cloud</h1>
 
-<h3 align="center">Cloud Infrastructure Engineer · AWS · Terraform · AWS SAM · Docker · CI/CD</h3>
+<h3 align="center">Cloud Infrastructure Engineer · AWS · Terraform · Azure · Docker · CI/CD</h3>
 
 <p align="center">
   I design, automate, secure, test, and document production-oriented cloud infrastructure.
@@ -141,7 +141,7 @@ Provisioned a repeatable AWS web tier that distributes traffic and automatically
 The [AWS 80 Projects Challenge](https://github.com/simeonprimordial/AWS80ProjectsChallenge) is the central index for my growing cloud engineering portfolio.
 
 ```text
-Progress: [########........................................................................] 8 / 80
+Progress: [#########.......................................................................] 9 / 80
 ```
 
 Each substantial project aims to demonstrate:
@@ -187,7 +187,7 @@ Each substantial project aims to demonstrate:
 
 ## Currently Deepening
 
-- AWS and Azure infrastructure administration
+- GCP and Azure infrastructure administration
 - serverless and event-driven architecture
 - multi-tenant SaaS security and authorization
 - container orchestration with Amazon ECS
