@@ -136,25 +136,6 @@ Provisioned a repeatable AWS web tier that distributes traffic and automatically
 
 ---
 
-## AWS 80 Projects Challenge
-
-The [AWS 80 Projects Challenge](https://github.com/simeonprimordial/AWS80ProjectsChallenge) is the central index for my growing cloud engineering portfolio.
-
-```text
-Progress: [#########.......................................................................] 9 / 80
-```
-
-Each substantial project aims to demonstrate:
-
-- a defined business or operational problem
-- documented architecture and engineering trade-offs
-- secure and repeatable infrastructure deployment
-- validation, testing, and failure-oriented troubleshooting
-- monitoring, cost awareness, and operational readiness
-- clear documentation that explains both the result and the engineering process
-
----
-
 ## Core Stack Demonstrated
 
 <p>
